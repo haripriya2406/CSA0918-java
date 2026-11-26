@@ -3,8 +3,8 @@
 **Course:** Programming in Java | **Total:** 50 marks | **Nature:** Individual
 
 ## Student details
-- Name: Hari Priya
-- Register number: 192311018
+- Name: Enter your name
+- Register number: Enter your register number
 - Java version: Fill in the installed version
 - Database: MySQL local assignment database
 
